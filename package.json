@@ -1,0 +1,14 @@
+{
+  "name": "@jiangtj/hexo-next-wapper-tag-cloud",
+  "version": "1.0.3",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "NexT team",
+  "license": "LGPL-3.0",
+  "dependencies": {
+    "hexo-tag-cloud": "^2.1.1"
+  }
+}
