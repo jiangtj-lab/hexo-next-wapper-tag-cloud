@@ -1,7 +1,13 @@
 # hexo-next-wapper-tag-cloud
 
+If you don't use jiangtj-lab package yet, please exec this script.
 ```bash
-yarn add @jiangtj/hexo-next-wapper-tag-cloud
+echo @jiangtj-lab:registry=https://npm.pkg.github.com/ >> .npmrc
+```
+
+And then
+```bash
+yarn add @jiangtj-lab/hexo-next-wapper-tag-cloud
 ```
 
 ![image](https://user-images.githubusercontent.com/15902347/63206503-0fb55b00-c0e8-11e9-9b74-4ceda824888b.png)
