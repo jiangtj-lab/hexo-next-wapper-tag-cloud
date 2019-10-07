@@ -1,5 +1,11 @@
 # hexo-next-wapper-tag-cloud
 
+Github package may has issues, so use npm orign temporary.
+
+```bash
+yarn add @jiangtj/hexo-next-wapper-tag-cloud
+```
+
 If you don't use jiangtj-lab package yet, please exec this script.
 ```bash
 echo @jiangtj-lab:registry=https://npm.pkg.github.com/ >> .npmrc
